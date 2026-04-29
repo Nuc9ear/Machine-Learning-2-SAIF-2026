@@ -1,6 +1,6 @@
-# Machine Learning (I): Methods and Applications in Finance
+# Machine Learning (II): Methods and Applications in Finance
 
-This repository contains homework, practice questions, theory questions, notes, and project materials for the course **Machine Learning (I): Methods and Applications in Finance**.
+This repository contains homework, practice questions, theory questions, notes, and project materials for the course **Machine Learning (II): Methods and Applications in Finance**.
 
 **Instructor:** Yiqing Lin  
 **Institution:** Shanghai Advanced Institute of Finance (SAIF), Shanghai Jiao Tong University  
