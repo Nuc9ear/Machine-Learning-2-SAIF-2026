@@ -94,24 +94,10 @@ The course covers the following topics:
    - Reinforcement Learning
 10. Diffusion Models
 
-## Grading Structure
-
-| Component | Weight |
-|---|---:|
-| Homework | 30% |
-| Midterm Exam | 40% |
-| Project | 30% |
-
 ## Reference Books
 
 1. Hastie, Tibshirani, and Friedman, *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*, 2nd Edition, Springer.
 2. Matthew F. Dixon, Igor Halperin, and Paul Bilokon, *Machine Learning in Finance*, Springer.
-
-## Academic Integrity and AI Use
-
-This repository is maintained for personal learning, coursework organization, and revision purposes.
-
-The course follows the **SAIF Guidelines for AI Use in Education and Teaching**. AI tools should not be used to generate final answers, main ideas, calculation processes, or analysis conclusions for individual or group assignments when prohibited by the course rules. Any external assistance should be limited to permitted learning support, debugging, formatting, or conceptual clarification.
 
 ## Disclaimer
 
